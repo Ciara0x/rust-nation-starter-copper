@@ -10,6 +10,8 @@ use cheats::TeamColors;
 const CAR: Color = Color::Red;
 const TARGET: Color = Color::Blue;
 
+// Edit test
+
 #[allow(unused)]
 struct MapState {
     car: Position,
